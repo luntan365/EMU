@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="VMTest" type="CMakeRunConfiguration" factoryName="Application" singleton="true" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EMU" TARGET_NAME="VMTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EMU" RUN_TARGET_NAME="VMTest">
+    <envs />
+    <method />
+  </configuration>
+</component>

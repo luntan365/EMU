@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="asm::hello.asm" type="CMakeRunConfiguration" factoryName="Application" folderName="asm" singleton="true" PROGRAM_PARAMS="asm hello.asm" WORKING_DIR="file://$PROJECT_DIR$/example" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EMU" TARGET_NAME="emu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EMU" RUN_TARGET_NAME="emu">
+    <envs />
+    <method />
+  </configuration>
+</component>

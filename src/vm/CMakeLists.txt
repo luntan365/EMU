@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+#find_package(OpenGL REQUIRED)
+add_library(vm VM.h VM.cpp Assembly.cpp Assembly.h Opcode.h Register.h)
+set(VM_INCLUDE_DIRS ${CMAKE_CURRENT_SOURCE_DIR})
+#include_directories(${OPENGL_INCLUDE_DIRS})
+#target_link_libraries(vm ${OPENGL_LIBRARIES})
